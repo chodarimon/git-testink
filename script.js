@@ -1,2 +1,2 @@
 document.body.innerHTML = '<h1>Yo from JS</h1>'
-console.log('penis123')
+console.log('peeeeeeeeeeeenis')
